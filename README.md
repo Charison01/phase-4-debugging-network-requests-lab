@@ -63,10 +63,12 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+  Corrected the typo in the create action
 
 - Update the number of likes for a toy
 
   - How I debugged:
+  Added a rendering code in the update action
 
 - Donate a toy to Goodwill (and delete it from our database)
 
