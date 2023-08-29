@@ -73,3 +73,4 @@ developing your own process.
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  Added a `destroy` code in the resources in the routes directory
